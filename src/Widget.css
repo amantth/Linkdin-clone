@@ -1,0 +1,43 @@
+.widgets{
+    background-color: white;
+    margin-top: 10px;
+    border-radius: 10px;
+  
+word-wrap: break-word;
+height: 300px;
+    padding: 10px;
+     width: 300px;
+}
+.widget__header{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.widget__header h2{
+    font-size: 16px;
+}
+.followrs{
+    display: flex;
+    margin: 10px 0;
+
+    
+}
+.header{
+    display: flex;
+   
+}
+.info{
+padding-left:10px;
+}
+.p{
+    text-overflow: ellipsis;
+}
+.btn{
+    background-color: transparent;
+    width: 75px;
+    border: 1px solid lightgray;
+    
+    height: 30px;
+    border-radius: 30px;
+    margin-left: 50px;
+}
